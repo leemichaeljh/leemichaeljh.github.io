@@ -10,3 +10,6 @@
 main:
   - title: "About"
     url: /
+  - title: "Curriculum Vitae"
+    url: /files/cv.pdf
+    external: true
