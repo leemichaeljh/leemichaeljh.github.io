@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Michael, a fourth-year undergraduate student at the University of Chicago with a major in Mathematics and minor in Computer Science. I grew up in Singapore. Here is my [CV](files/cv.pdf) and a collection of some notes.
+Hello! I am Michael, a fourth-year undergraduate student at the University of Chicago with a major in Mathematics and a minor in Computer Science. I grew up in Singapore. Here is my [CV](files/cv.pdf) and a collection of some notes.
 
 Expository writing
 ======
