@@ -10,7 +10,7 @@ redirect_from:
 Hello! My name is Michael and I grew up in Singapore. I am now a fourth-year undergraduate student at the University of Chicago with a major in Mathematics and a minor in Computer Science. Here is my [CV](files/cv.pdf) and a collection of some expository writing.
 
 [Subquadratic Caffarelli-Kohn-Nirenberg Epsilon Regularity Theorem](files/subquadratic_ckn.pdf) (with Professor Jincheng Yang)  
-This paper gives a proof of a regularity criterion for suitable weak solutions of the 3D incompressible Navier-Stokes equations. This proof and its ideas are attributed to the [work](https://arxiv.org/abs/math/0607114) of Gustafson, Kang, Tsai. We formulate it in terms of a modification of a [paper](https://link.springer.com/article/10.1007/s00030-007-6001-4) of Vasseur.
+This paper gives a proof of a regularity criterion for suitable weak solutions of the 3D incompressible Navier-Stokes equations. This proof and its ideas are attributed to the [work](https://arxiv.org/abs/math/0607114){:target="_blank" rel="noopener noreferrer"} of Gustafson, Kang, Tsai. We formulate it in terms of a modification of a [paper](https://link.springer.com/article/10.1007/s00030-007-6001-4){:target="_blank" rel="noopener noreferrer"} of Vasseur.
 
 UChicago Math REU Papers
 ======
