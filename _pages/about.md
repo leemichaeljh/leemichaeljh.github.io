@@ -12,9 +12,9 @@ Hello! My name is Michael and I grew up in Singapore. I am now a fourth-year und
 [Subquadratic Caffarelli-Kohn-Nirenberg Epsilon Regularity Theorem](files/subquadratic_ckn.pdf)  
 (with Professor Jincheng Yang)  
 This note presents an existing regularity criterion for suitable weak solutions of the 3D incompressible Navier-Stokes equations. The original proof and its ideas are attributed to the 
-<a href="[https://example.com]([https://link.springer.com/article/10.1007/s00030-007-6001-4)](https://arxiv.org/abs/math/0607114)" target="_blank" rel="noopener">work</a>
+<a href="https://arxiv.org/abs/math/0607114" target="_blank" rel="noopener">work</a>
 of Gustafson, Kang, Tsai. We formulate it in terms of a direct modification of the following 
-<a href="[https://example.com](https://link.springer.com/article/10.1007/s00030-007-6001-4)" target="_blank" rel="noopener">paper</a>
+<a href="https://link.springer.com/article/10.1007/s00030-007-6001-4" target="_blank" rel="noopener">paper</a>
 by Vasseur.
 
 UChicago Math REU Papers
