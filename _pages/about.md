@@ -27,8 +27,8 @@ Reading Course Notes
 Notes for a reading course on Stein's *Singular Integrals and Differentiability Properties of Functions*.  
 
 [The Geometry of Elliptic Curves](files/drp-elliptic.pdf)  
-Winter 2024 DRP notes under mentorship of Alicia Lima.  
+Winter 2024 DRP notes.  
 
 [The Prime Number Theorem via Complex Analysis](files/drp-analytic.pdf)  
-Autumn 2023 DRP notes under mentorship of Alicia Lima.  
+Autumn 2023 DRP notes. 
 
