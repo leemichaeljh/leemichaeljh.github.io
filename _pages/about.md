@@ -14,7 +14,7 @@ UChicago Math REU Papers
 [The Rigidity and Regularity of the Burgers' Equation](files/reu-2025.pdf)  
 2025 Math REU paper, jointly written with Ezekiel Fleissner-Kates under mentorship of David Bowman.  
 
-[Partial Regularity Theory of The Navier-Stokes Equations](files/reu-.pdf)(updating)  
+[Partial Regularity Theory of The Navier-Stokes Equations](files/reu-2024.pdf) (updating)  
 2024 Math REU paper, written under mentorship of Professor Jincheng Yang.   
 
 [Leray-Hopf Weak Solutions to the Navier-Stokes Equations](files/reu-2023.pdf)  
