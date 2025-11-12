@@ -14,7 +14,7 @@ UChicago Math REU Papers
 [The Rigidity and Regularity of the Burgers' Equation](files/reu-2025.pdf)  
 2025 Math REU paper, jointly written with Ezekiel Fleissner-Kates under mentorship of David Bowman.  
 
-[Partial Regularity Theory of The Navier-Stokes Equations](files/reu-2024.pdf)  
+[Partial Regularity Theory of The Navier-Stokes Equations](files/reu-.pdf)(updating)  
 2024 Math REU paper, written under mentorship of Professor Jincheng Yang.   
 
 [Leray-Hopf Weak Solutions to the Navier-Stokes Equations](files/reu-2023.pdf)  
@@ -24,7 +24,7 @@ UChicago Math REU Papers
 Reading Course Notes
 ======
 [Singular Integral Operators](files/singular_integrals.pdf)  
-Notes (in progress) for a reading course on Stein's *Singular Integrals and Differentiability Properties of Functions* with Professor Carlos Kenig.  
+Notes for a reading course on Stein's *Singular Integrals and Differentiability Properties of Functions*.  
 
 [The Geometry of Elliptic Curves](files/drp-elliptic.pdf)  
 Winter 2024 DRP notes under mentorship of Alicia Lima.  
