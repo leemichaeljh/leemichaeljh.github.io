@@ -23,7 +23,7 @@ repository               : "leemichaeljh/leemichaeljh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Michael Lee"
   pronouns         : # example: "she/her"  
   bio              : "4th year Math undergrad"
