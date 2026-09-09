@@ -9,7 +9,7 @@ redirect_from:
 
 Hello! My name is Michael and I grew up in Singapore. I am a first-year graduate student in mathematics at UT Austin. I did my BS in Mathematics and BS in Computer Science at UChicago. Here is my [CV (updated December 2025)](files/cv.pdf) and a collection of some expository writing.
 
-[Notes](files/drp-formal.pdf) for a DRP on Formal Languages
+[Notes for a DRP on Formal Languages](files/drp-formal.pdf) 
 
 UChicago Math REU Papers
 ======
