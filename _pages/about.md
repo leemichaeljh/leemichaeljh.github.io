@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Michael and I grew up in Singapore. I am now a fourth-year undergraduate student at the University of Chicago with a major in Mathematics and a minor in Computer Science. Here is my [CV](files/cv.pdf) and a collection of some expository writing.
+Hello! My name is Michael and I grew up in Singapore. I am now a fourth-year undergraduate student at the University of Chicago with a major in Mathematics and a minor in Computer Science. Here is my [CV (updated December 2025)](files/cv.pdf) and a collection of some expository writing.
 
 UChicago Math REU Papers
 ======
